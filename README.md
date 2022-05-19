@@ -12,5 +12,7 @@
 
 * Note: These documents are summarized
 
+ * Zigbalthazar@gmail.com
+ * Tlgrm : @ZigBalthazar
 
 asymmetric - symmetric - RSA - ECC - ECDSA - Hash - Keccak256 - SHAs - secp256k1 - etc
